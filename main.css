@@ -226,10 +226,6 @@
       -ms-flex-direction: column;
           flex-direction: column;
 }
-.about footer {
-  -webkit-transform: rotate(90deg) translate(-3, -5rem);
-          transform: rotate(90deg) translate(-3, -5rem);
-}
 
 .contact {
   height: 100%;
@@ -361,15 +357,5 @@ main .social-icons a {
 }
 main .social-icons a:hover {
   color: gold;
-}
-
-footer {
-  font-size: 1rem;
-  position: fixed;
-  bottom: 0.4rem;
-  right: 1rem;
-  text-align: right;
-  padding: 1rem;
-  color: #fff;
 }
 /*# sourceMappingURL=main.css.map */
